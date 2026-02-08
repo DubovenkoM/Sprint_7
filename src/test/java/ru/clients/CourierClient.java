@@ -1,4 +1,4 @@
-package ru.api.clients;
+package ru.clients;
 
 import io.qameta.allure.Step;
 import io.restassured.response.Response;
